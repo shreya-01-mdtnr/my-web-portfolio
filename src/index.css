@@ -1,0 +1,3 @@
+#root { min-height:100vh; }
+:focus-visible { outline:2px solid #ff754d; outline-offset:4px; }
+::selection { background:#ff754d; color:#0b1520; }
